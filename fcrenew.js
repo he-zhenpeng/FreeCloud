@@ -21,6 +21,7 @@ if (!_0x7g8h) {
 
 // Worker URLs (轮转使用)
 const _0x9i0j = [
+  "https://freecloud.skylerhe.workers.dev",
   "https://webkeepalive-server.qldyf.workers.dev",
   "https://webkeepalive-server2.mqiancheng.workers.dev",
   "https://webkeepalive-server3.mqiancheng.workers.dev"
